@@ -1,0 +1,11 @@
+url,category
+https://www.google.com,safe
+https://github.com,safe
+https://stackoverflow.com,safe
+https://www.youtube.com,safe
+https://docs.python.org,safe
+http://192.168.1.1/login.php,phishing
+https://secure-bank-login.com,phishing
+http://paypal.verify-account.com,phishing
+http://10.0.0.1/admin,phishing
+https://login.facebook.secure.com,phishing

@@ -1,0 +1,11 @@
+url,url_length,num_dots,has_https,has_ip,suspicious_keywords,entropy,special_char_ratio,is_phishing
+https://www.google.com,22,2,1,0,0,2.1,0.05,0
+http://192.168.1.1/login.php,28,3,0,1,2,3.8,0.25,1
+https://secure-bank-login.com,32,3,1,0,3,4.1,0.30,1
+https://github.com/user,25,2,1,0,0,2.3,0.08,0
+http://paypal.verify-account.com,35,3,0,0,2,3.9,0.22,1
+https://stackoverflow.com,26,2,1,0,0,2.2,0.06,0
+http://10.0.0.1/admin,22,3,0,1,1,3.5,0.20,1
+https://www.youtube.com,24,2,1,0,0,2.0,0.04,0
+https://login.facebook.secure.com,38,4,1,0,2,4.0,0.28,1
+https://docs.python.org,28,3,1,0,0,2.4,0.09,0

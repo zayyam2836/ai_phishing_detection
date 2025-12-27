@@ -1,0 +1,24 @@
+{
+  "name": "ai-phishing-detector",
+  "version": "1.0.0",
+  "description": "AI Powered Phishing URL Detector - Information Security Final Project",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Project running at http://localhost:8080' && python -m http.server 8080",
+    "dev": "echo 'Open index.html in browser to view the project'",
+    "test": "echo 'Running tests...' && python src/feature_extractor.py",
+    "train": "echo 'Training model...' && python src/model_trainer.py"
+  },
+  "keywords": [
+    "phishing",
+    "cybersecurity",
+    "ai",
+    "machine-learning",
+    "information-security",
+    "url-detector"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

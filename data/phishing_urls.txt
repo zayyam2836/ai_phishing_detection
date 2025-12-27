@@ -1,0 +1,17 @@
+# Sample Phishing URLs for Testing
+http://192.168.1.1/login.php
+https://secure-bank-login-verify.com
+http://paypal.verify-account.com
+https://apple-id-verification.com
+http://microsoft-account-update.com
+https://amazon-payment-verify.com
+http://netflix-billing-update.com
+https://google-drive-secure.com
+http://facebook-login-security.com
+https://twitter-account-verify.com
+
+# These are example patterns, not real phishing URLs
+http://login-account-secure-verify.net
+https://update-banking-information.com
+http://password-reset-confirm.com
+https://wallet-verification-process.com

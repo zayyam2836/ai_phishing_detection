@@ -1,0 +1,11 @@
+# Feature Scaler for ML Model
+# This file would contain the StandardScaler object
+# used to normalize features before prediction
+
+SCALER INFORMATION:
+- Type: StandardScaler
+- Features: 14
+- Fitted: Yes
+
+This is a placeholder for demonstration.
+Real file would be created using scikit-learn's StandardScaler.
